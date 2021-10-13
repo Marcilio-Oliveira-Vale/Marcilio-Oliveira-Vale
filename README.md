@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Oiii eu sou a Marcilio Oliveira, estudante de programação e tecnologia!
+## Oiii eu sou Marcilio Oliveira, estudante de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/Marcilio-Oliveira-Vale">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcilio-Oliveira-Vale&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
